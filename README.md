@@ -7,6 +7,6 @@ I love working on Python projects. Do you have one at hand? Let's solve that tog
 
 **Some important links:**
 
-    -[Official Matplotlib Tutorial](https://matplotlib.org/stable/)
+    *[Official Matplotlib Tutorial](https://matplotlib.org/stable/)
     
-    -[Markdown Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    *[Markdown Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
