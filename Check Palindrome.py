@@ -45,5 +45,15 @@ def is_palindrome(text):
         return text[0] == text[-1] and is_palindrome(text[1:-1])
 
 
+def is_palindrome1(text):
+    """Checks whether a given string (without non-letter characters) is a Palindrome using string slicing.
+    Args:
+        text (str): String to check.
+    Returns:
+        bool : True or False
+    """
+    return text == text[::-1]
+
+
 if __name__ == "__main__":
     main()
