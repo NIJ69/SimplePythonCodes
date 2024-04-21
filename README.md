@@ -1,5 +1,9 @@
 <!--This is a sample of a comment.-->
 
+<h1 align="center">
+    <img src="https://www.python.org/static/img/python-logo@2x.png" />
+</h1>
+
 ***Hello there! Hope you are doing well and thank you for visiting my profile.🫡***
 
 In this repository, I have saved all the small and simple(😉) problems that I solved using Python. I also added some useful learning resources that helped me learn Python in an efficient way. Feel free to check these out and if you have any suggestions, I would love to hear from you.

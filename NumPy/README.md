@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/NIJ69/SimplePythonCodes/assets/143352318/9ce46040-a594-4d2d-be0c-ee61a0d4b79e" />
+    <img src="https://numpy.org/doc/stable/_static/numpylogo_dark.svg" />
 </h1>
 
 **In this folder, I have listed the resources I used to learn NumPy.**
