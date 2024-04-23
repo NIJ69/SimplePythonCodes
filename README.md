@@ -14,6 +14,4 @@ I love working on Python projects. Do you have one at hand? Let's solve that tog
 >[!IMPORTANT]
 >**Some beneficial links:**
 
-- [Official Matplotlib Tutorial](https://matplotlib.org/stable/): This is the official Matplotlib modules explanation website. Here you can find everything you need to master Matplotlib with example codes!😮!
-
 - [Markdown Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): This is the documentation of how to use markdown language to edit the README file in GitHub.

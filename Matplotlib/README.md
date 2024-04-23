@@ -7,4 +7,4 @@
 >[!IMPORTANT]
 >**Some beneficial links:**
 
-- [Official Matplotlib website](https://matplotlib.org/stable/):
+- [Official Matplotlib website](https://matplotlib.org/stable/): This is the official Matplotlib modules explanation website. Here you can find everything you need to master Matplotlib with example codes!😮!
